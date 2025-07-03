@@ -61,7 +61,7 @@ A full-featured backend API built using **Node.js**, **Express**, and **MongoDB*
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-backend.git
+git clone https://github.com/Urvin145/Ecom
 
 # Install dependencies
 npm install
